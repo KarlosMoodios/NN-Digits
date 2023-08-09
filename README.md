@@ -3,7 +3,7 @@ A neural network which analyses a small sample of the MNIST handwritten digits u
 
 This neural network was created by Dr Andrew Watson; my university lecturer. It was given to the students to demonstrate how neural networks function. 
 
-It was to show us how:
+It was to show us how the following affected the results:
 - different amounts of neurons in the hidden layers,
 - adding more or less hidden layers,
 - using different activation functions,
